@@ -3,7 +3,8 @@
 Welcome to my CS161B repository! This course is a continuation of CS161A, diving deeper into programming concepts using C++. This repo is organized to help me stay on track with assignments, keep a record of discussion posts, and retain what I learn through note-taking.
 
 ## 🌎 Environment
-The environment used 
+The environment used at PSU. I should probably get comfortable with this stack even if I don't end up transferring.
+
 Computing System: All work is to be performed on the PSU linux systems
 Compiler: GNU GCC C++ compiler using Modern C++ on MCECS linux systems
     g++ -std=c++17 program.cpp
@@ -17,12 +18,10 @@ Editors Allowed: vi, vim - NO OTHER EDITORS may be used
 
 ## 📌 Topics Covered
 
-- Pointers and memory management
-- Dynamic arrays and linked structures
+- Pointers and dynamic memory management
 - File I/O
-- Modular programming
-- Basic data structures
-- Debugging and testing in C++
+- Structs
+- Debugging in C++ with GDB
 
 ## 💡 Goals
 
